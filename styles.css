@@ -1,9 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
     margin: 8px;
-    padding: 0 20px; /* Add padding to both left and right sides */
-    overflow-x: hidden; /* Prevent horizontal scrolling */
-}
+    overflow-x: hidden; 
 
 header {
     background-color: #333;
@@ -31,7 +29,5 @@ footer {
     color: white;
     text-align: center;
     padding: 1em;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    margin: 0 20px; 
 }
