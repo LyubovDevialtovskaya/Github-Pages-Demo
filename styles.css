@@ -1,7 +1,6 @@
-User
 body {
     font-family: 'Arial', sans-serif;
-    margin: 8;
+    margin: 8px;
     padding: 0;
 }
 
@@ -31,7 +30,7 @@ footer {
     color: white;
     text-align: center;
     padding: 1em;
-    position: flex;
+    position: fixed; /* Fixed position */
     bottom: 0;
     width: 100%;
 }
