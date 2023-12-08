@@ -1,7 +1,8 @@
 body {
     font-family: 'Arial', sans-serif;
-    margin: 0px;
-    overflow-x: hidden; 
+    margin: 0;
+    overflow-x: hidden;
+}
 
 header {
     background-color: #333;
@@ -29,5 +30,5 @@ footer {
     color: white;
     text-align: center;
     padding: 1em;
-    margin: 0px; 
+    margin: 0 auto; 
 }
