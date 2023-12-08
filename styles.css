@@ -2,6 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 8px;
     padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
 header {
@@ -30,7 +31,8 @@ footer {
     color: white;
     text-align: center;
     padding: 1em;
-    position: fixed; /* Fixed position */
+    position: fixed;
     bottom: 0;
     width: 100%;
 }
+
