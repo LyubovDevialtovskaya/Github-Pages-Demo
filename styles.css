@@ -35,6 +35,5 @@ footer {
     color: white;
     text-align: center;
     padding: 1em;
-    margin-top: auto;
-    position: absolute;
+    margin-top: auto; /* Push the footer to the bottom */
 }
