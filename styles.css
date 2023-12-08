@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
     margin: 8px;
-    padding: 0;
+    padding: 0 20px; /* Add padding to both left and right sides */
     overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
@@ -35,4 +35,3 @@ footer {
     bottom: 0;
     width: 100%;
 }
-
